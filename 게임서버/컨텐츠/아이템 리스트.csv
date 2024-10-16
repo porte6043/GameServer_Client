@@ -1,0 +1,20 @@
+아이템 분류(더미_일반_캐시_패키지),아이템 종류(일반_소비_장비_기타),아이템명,아이템 id,아이템 설명,최대 개수
+0,0,0,0,0,0
+,,,,,
+1,1,Token,1,event token,2
+,,,,,
+1,2,StrBox,334,Increase Str by 2,999
+1,2,DexBox,335,Increase Dex by 2,999
+1,2,IntBox,336,Increase Int by 2,3
+1,2,LukBox,337,Increase Luk by 2,999
+1,2,AllBox,338,Increase All by 2,999
+1,2,dummy,339,dummy consumable item,3
+,,,,,
+2,2,Premium DexBox,1000,Increase Dex by 5,999
+2,2,Premium IntBox,1001,Increase Int by 5,999
+2,2,Premium LukBox,1002,Increase Luk by 5,999
+,,,,,
+,,,,,
+,,,,,
+3,2,AllBox,2000,Give Status All Box,999
+3,2,StrBoxAndCash,2001,Give StrBox and Cash 1000,999

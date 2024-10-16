@@ -1,0 +1,14 @@
+#ifndef __NETWORK_PQCSEVENT_H__
+#define __NETWORK_PQCSEVENT_H__
+
+enum class PqcsEvent
+{
+	THREAD_DONE = 0,
+	SEND_POST,
+	SEND_POST_DISCONNECT,
+	ROOM_UPDATE,
+	ROOM_DELETE,
+	SEND_ALLROOM,
+	SEND_ROOM
+};
+#endif
